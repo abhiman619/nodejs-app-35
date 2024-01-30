@@ -1,2 +1,1 @@
-merged successfully with stash
-
+merged successfully into staging
