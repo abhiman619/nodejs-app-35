@@ -1,1 +1,1 @@
-no pull
+git pull test
